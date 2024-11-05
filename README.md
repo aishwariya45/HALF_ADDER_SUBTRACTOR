@@ -70,6 +70,7 @@ endmodule
 
 **Output/TIMING Waveform**
 
+![Screenshot (1)](https://github.com/user-attachments/assets/e7b4dbc9-4680-4827-b715-c4870b8ebb26)
 
 **Result:**
 th

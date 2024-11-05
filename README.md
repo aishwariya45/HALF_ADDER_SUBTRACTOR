@@ -21,6 +21,10 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
 
 Figure -01 HALF ADDER
+![image](https://github.com/user-attachments/assets/80c0f9c9-e9c5-4cee-82c2-bb048a2add42)
+![image](https://github.com/user-attachments/assets/0abbb2ef-a681-4acc-826f-05a4195c4f30)
+
+
 
 **Half Subtractor**
 
@@ -32,6 +36,10 @@ Borrow = A’B
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure -02 HALF Subtractor
+![image](https://github.com/user-attachments/assets/f635eb8d-c8fe-41ff-ba1d-2fc678bc6db2)
+![image](https://github.com/user-attachments/assets/0214ed85-d335-4495-8b12-f713e025a1fe)
+
+
 
 **Truthtable**
 
@@ -52,10 +60,26 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by:s.aishwariya RegisterNumber:*/24900849
+```
+module exp31(a,b,cy,sm,df,bo);
+input a,b;
+output sm,cy,df,bo;
+xor(sm,a,b);
+and(cy,a,b);
+xor(df,a,b);
+and(bo,~a,b);
+endmodule
+```
 
 **RTL Schematic**
+![Screenshot 2024-11-05 052530](https://github.com/user-attachments/assets/7f074fb8-5496-43d2-a564-c0fed779b558)
+
 
 **Output/TIMING Waveform**
+![exp31](https://github.com/user-attachments/assets/40e51a02-3dc8-47b3-8f2d-38b7121b63a9)
+
 
 **Result:**
+truth table of half adder and full adder are verified successfully
+

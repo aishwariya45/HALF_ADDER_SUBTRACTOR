@@ -70,11 +70,11 @@ endmodule
 
 **RTL Schematic**
 
-![Screenshot 2024-11-05 051354](https://github.com/user-attachments/assets/68e6ab84-52c2-48a6-960e-78d0a68cdc4d)
 
 **Output/TIMING Waveform**
 
-![Screenshot (1)](https://github.com/user-attachments/assets/e7b4dbc9-4680-4827-b715-c4870b8ebb26)
+![image](https://github.com/user-attachments/assets/83384959-035c-4ab9-9068-2154fc988b44)
+
 
 **Result:**
 true table of half adder and full adder are verified successfully

@@ -34,7 +34,6 @@ Borrow = A’B
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure -02 HALF Subtractor
-![image](https://github.com/user-attachments/assets/37c5b9a3-188a-4ce6-b839-fe39b0481498)
 
 
 **Truthtable**
@@ -74,7 +73,7 @@ endmodule
 
 **Output/TIMING Waveform**
 
-![image](https://github.com/user-attachments/assets/83384959-035c-4ab9-9068-2154fc988b44)
+![Uploading Screenshot 2024-11-05 051354.png…]()
 
 
 **Result:**

@@ -22,6 +22,8 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 
 Figure -01 HALF ADDER
 ![image](https://github.com/user-attachments/assets/5a5e10b9-c153-40e1-b671-ce7ca2bae50a)
+![image](https://github.com/user-attachments/assets/69e0c514-efaa-4b75-a08e-1e36e8c2fc8f)
+
 
 
 **Half Subtractor**
@@ -39,6 +41,8 @@ Figure -02 HALF Subtractor
 
 
 **Truthtable**
+![image](https://github.com/user-attachments/assets/ec214897-6bfe-4690-9dff-b2d9e2210799)
+
 
 **Procedure**
 

@@ -80,8 +80,7 @@ endmodule
 
 
 **Output/TIMING Waveform**
-![Screenshot 2024-11-05 051354](https://github.com/user-attachments/assets/5cf3b9d4-3a11-4f4f-98a0-5886f3ba0066)
-
+![Screenshot 2024-12-10 111952](https://github.com/user-attachments/assets/c0c8df6c-5358-4708-b35a-094afc0abe04)
 
 
 **Result:**
